@@ -1,0 +1,29 @@
+{
+  "ui": {
+    "agent": "Sie",
+    "user": "Nutzer",
+    "organization": "Organisation",
+    "ticket": "Ticket",
+    "ticket_requester": "Anfragender",
+    "ticket_assignee": "Mitarbeiter",
+    "ticket_organization": "Organisation",
+    "ticket_collaborators": "CCs"
+  },
+  "admin": {
+    "settins_preview": "Vorschau der Einstellungen",
+    "settings_description": "Dies ist die aktuelle Konfiguration der App. Die Einstellungen können unter Apps > Verwalten geändert werden."
+  },
+  "error": {
+    "unable_to_parse_json": "JSON-Einstellungen für Tags können nicht analysiert werden. Sie sind fehlerhaft oder kaputt. Prüfen sie die App-Einstellungen und bestätigen sie das JSON Script. Sollte der Fehler bestehen kontaktieren sie bitte den Administrator."
+  },
+  "notification": {
+    "message_1": "Sie haben folgende: ",
+    "notice": "Nachricht(en)",
+    "alert": "Warnung(en)",
+    "error": "Fehler",
+    "message_2": "Prüfung",
+    "app": "App",
+    "message_3": "für mehr Details"
+  },
+  "deflection_message": "Dies ist eine Zendesk Labs App. Zendesk Labs ist ein Testfeld für experimentelle Softwareanwendungen, die sich in verschiedenen Entwicklungsstadien befinden. Die Software kann sich jederzeit ändern, brechen oder verschwinden. Während Zendesk die Zendesk Labs-Apps nicht unterstützt, können ihre Ersteller möglicherweise helfen. Der beste Weg, den ursprünglichen Entwickler zu kontaktieren, ist die Erstellung eines github issue im Repository der App."
+}

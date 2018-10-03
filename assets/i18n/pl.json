@@ -1,0 +1,29 @@
+{
+  "ui": {
+    "agent": "Ty",
+    "user": "Użytkownik",
+    "organization": "Organizacja",
+    "ticket": "Zgłoszenie",
+    "ticket_requester": "Osoba zlecająca",
+    "ticket_assignee": "Opiekun zgłoszenia",
+    "ticket_organization": "Organizacja zgłoszenia",
+    "ticket_collaborators": "Adresy DW"
+  },
+  "admin": {
+    "settins_preview": "Podgląd ustawień",
+    "settings_description": "To jest aktualna konfiguracja aplikacji. Żeby zmienić ustawienia, przejdź do ustawień strony"
+  },
+  "error": {
+    "unable_to_parse_json": "Niemożliwe sformułowanie ustawień JSON dla tagu. Brakuje tagu albo jest błąd. Sprawdź ustawienia aplikacji i zweryfikuj kod JSON. Jeśli ciągle jest błąd, skontaktuj się z administratorem Zendesk."
+  },
+  "notification": {
+    "message_1": "Masz: ",
+    "notice": "Wiadomość(i)",
+    "alert": "Powiadomienie(a)",
+    "error": "Błąd(ędy)",
+    "message_2": "Sprawdź",
+    "app": "Aplikacja",
+    "message_3": "więcej szczegółów"
+  },
+  "deflection_message": "To jest aplikacja Zendesk Labs. Zendesk Labs to przestrzeń budowania experymentalnych aplikacji, które sa w różnych stadiach budowy. To oprogramowanie może się zmienić, zepsuć albo zostać usunięte w każdej chwili. Zendesk nie wspiera aplikacji Zendesk Lab, ale jej twórcy mogą pomóc. Najlepsza droga żeby skontaktowac się z twórcami to utworzenie zgłoszenia github w repozytorium aplikacji."
+}
