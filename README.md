@@ -2,36 +2,6 @@
 
 Show custom messages depending on any tag.
 
-### Authors
-
-App has designed, built and promoted during Zendevian 2018 by:
-
-- Andrey Sarapulov
-- Vladimir Avrov
-- Kamila Koppe
-- Klaus Gotthardt
-- Andreas Mahl
-- Magdalena Kluwe
-
-### App Submission details
-
-Project [Submission form](https://docs.google.com/forms/d/e/1FAIpQLScvkHOTm4NsAG_87bGi6fim8gGGzgCdsJYQETelJQSUOp1Mzw/viewform)
-
-- Team Name: `Tag Instructor`
-- Office Location: `Berlin`
-- Captain Email: asarapulov@zendesk.com
-- Elevator Pitch: `Tag Instructor App shows custom messages depending on any Zendesk tag`
-- Project Description: 
-
-```
-Tag Instructor App enables Zendesk Administrators to define which messages will be visible depending whether single or many tags are presented on Zendesk users or tickets. Tag Instructor App enables Zendesk Administrators to build complex workflows. It helps Agents to be efficient by being informed in the real time and allows delivering better customer service. Install Tag Instructor App now to boost your Agents productivity! App available in 4 languages, fully marketplae ready, tested in all supported browsers, capable to work with complex settings and workflows.
-```
-
-- Marketing Video: `TBD`
-- GitHub Repository: https://github.com/zendeviancup/tag-instructor
-- Event Feedback: `Missing Tshirts, food delivery and any other organization in Berlin office. Got troubles creating github repo. :/`
-- Anything else?: 
-
 ### Legal
 
 <div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>

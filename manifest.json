@@ -6,7 +6,7 @@
     "url": ""
   },
   "defaultLocale": "en",
-  "private": false,
+  "private": true,
   "singleInstall": false,
   "location": {
     "support": {
@@ -43,6 +43,6 @@
      "default": false
    }
  ],
-  "version": "1.0.12",
+  "version": "1.0.13",
   "frameworkVersion": "2.0"
 }
