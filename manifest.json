@@ -3,10 +3,10 @@
   "author": {
     "name": "Zendesk Labs",
     "email": "zendesklabs@zendesk.com",
-    "url": ""
+    "url": "https://github.com/Sarapulov/tag-instructor"
   },
   "defaultLocale": "en",
-  "private": true,
+  "private": false,
   "singleInstall": false,
   "location": {
     "support": {
@@ -43,6 +43,6 @@
      "default": false
    }
  ],
-  "version": "1.0.13",
+  "version": "1.0.14",
   "frameworkVersion": "2.0"
 }
