@@ -15,7 +15,7 @@
       },
       "hide_section_name": {
         "label": "Hide section name",
-        "helpText": "If selected the App will hide the sections names (Agent, User, Organization, ...)"
+        "helpText": "If selected the App will hide the sections names (Assignee, Requester, Organization, ...)"
       },
       "hide_disclaimer": {
         "label": "Hide disclaimer",
