@@ -33,6 +33,11 @@
      "default": true
    },
    {
+     "name": "hide_section_name",
+     "type": "checkbox",
+     "default": false
+   },
+   {
      "name": "hide_disclaimer",
      "type": "checkbox",
      "default": false
