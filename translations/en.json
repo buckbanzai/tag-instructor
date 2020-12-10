@@ -13,6 +13,10 @@
         "label": "Show popup notification",
         "helpText": "If selected the App will show little popup on top right side of the screen giving Agent a summary of the messages"
       },
+      "hide_section_name": {
+        "label": "Hide section name",
+        "helpText": "If selected the App will hide the sections names (Agent, User, Organization, ...)"
+      },
       "hide_disclaimer": {
         "label": "Hide disclaimer",
         "helpText": "If selected the App will hide the little question mark on top right side of the App screen"
