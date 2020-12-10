@@ -24,7 +24,7 @@
       <div v-if="hasMessages">
         <div v-for="(messages, section) in currentMessages"
              v-if="messages.length">
-          <h3 class="u-mt-xs u-semibold">
+          <h3 v-if="(!isModal && !metadata.settings.hide_section_name)" class="u-mt-xs u-semibold">
             <div class="c-tag c-tag--round"><span>{{messages.length}}</span></div> {{i18n.ui[section]}}
           </h3>
           <ul>
