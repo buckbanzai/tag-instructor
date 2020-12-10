@@ -22,7 +22,7 @@ App has built using the following technology stack and bounded by all legal and 
 
 - `show_popup` - If selected the App will show little popup on top right side of the screen giving Agent a summary of the messages.
 
-- `hide_section_name` - If selected the App will hide the sections names (Assignee, Requester, Organization, ...)
+- `hide_section_name` - If selected the App will hide the section names (Assignee, Requester, Organization, ...)
 
 - `hide_disclaimer` - If selected the App will hide the little question mark on top right side of the App screen.
 
