@@ -103,6 +103,7 @@
   ]
 },
   "show_popup": true,
+  "hide_section_name": false,
   "hide_disclaimer": false,
   "hide_if_no_messages": false
 }
