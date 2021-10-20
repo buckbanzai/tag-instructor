@@ -18,9 +18,9 @@
   },
   "notification":{
     "message_1":"You have: ",
-    "notice":"Message(s)",
-    "alert":"Alerts(s)",
-    "error":"Error(s)",
+    "notice":"Notice(s)",
+    "alert":"Alert(s)",
+    "error":"Warning(s)",
     "message_2":"Check",
     "app":"App",
     "message_3":"for more details"

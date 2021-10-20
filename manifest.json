@@ -35,17 +35,17 @@
    {
      "name": "hide_section_name",
      "type": "checkbox",
-     "default": false
+     "default": true
    },
    {
      "name": "hide_disclaimer",
      "type": "checkbox",
-     "default": false
+     "default": true
    },
    {
      "name": "hide_if_no_messages",
      "type": "checkbox",
-     "default": false
+     "default": true
    }
  ],
   "version": "1.0.16",
