@@ -10,13 +10,26 @@
   "singleInstall": false,
   "location": {
     "support": {
-      "ticket_sidebar": "assets/iframe.html",
-      "new_ticket_sidebar": "assets/iframe.html",
-      "user_sidebar": "assets/iframe.html",
-      "organization_sidebar": "assets/iframe.html",
+      "ticket_sidebar": {
+        "flexible": true,
+        "url": "assets/iframe.html"
+      },
+      "new_ticket_sidebar": {
+        "flexible": true,
+        "url": "assets/iframe.html"
+      },
+      "user_sidebar": {
+        "flexible": true,
+        "url": "assets/iframe.html"
+      },
+      "organization_sidebar": {
+        "flexible": true,
+        "url": "assets/iframe.html"
+      },
       "nav_bar": {
         "url":"assets/iframe.html",
-        "autoHide": true
+        "autoHide": true,
+        "flexible": true
       }
     }
   },
@@ -48,6 +61,6 @@
      "default": true
    }
  ],
-  "version": "1.0.16",
+  "version": "1.0.17",
   "frameworkVersion": "2.0"
 }
