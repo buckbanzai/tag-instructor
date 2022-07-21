@@ -13,23 +13,6 @@
       "ticket_sidebar": {
         "flexible": true,
         "url": "assets/iframe.html"
-      },
-      "new_ticket_sidebar": {
-        "flexible": true,
-        "url": "assets/iframe.html"
-      },
-      "user_sidebar": {
-        "flexible": true,
-        "url": "assets/iframe.html"
-      },
-      "organization_sidebar": {
-        "flexible": true,
-        "url": "assets/iframe.html"
-      },
-      "nav_bar": {
-        "url":"assets/iframe.html",
-        "autoHide": true,
-        "flexible": true
       }
     }
   },
